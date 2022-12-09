@@ -11,9 +11,9 @@ const Projects = () => {
                     <h2 className="card-title">Education Beyond Border</h2>
 
                     <div className="card-actions justify-center">
-                        <button className="btn btn-sm btn-outline">Live Website</button>
-                        <button className="btn btn-sm btn-outline">GitHub Client</button>
-                        <button className="btn btn-sm btn-outline">GitHub Server</button>
+                        <a href="https://education-beyond-border.netlify.app/"><button className="btn btn-sm btn-outline">Live Website</button></a>
+                        <a href="https://github.com/2ndjoy/education-beyond-border-client"><button className="btn btn-sm btn-outline">GitHub Client</button></a>
+                        <a href="https://github.com/2ndjoy/education-beyond-border-server"><button className="btn btn-sm btn-outline">GitHub Server</button></a>
                     </div>
                 </div>
             </div>
@@ -23,9 +23,9 @@ const Projects = () => {
                     <h2 className="card-title">Kather Ghor</h2>
 
                     <div className="card-actions justify-center">
-                        <button className="btn btn-sm btn-outline">Live Website</button>
-                        <button className="btn btn-sm btn-outline">GitHub Client</button>
-                        <button className="btn btn-sm btn-outline">GitHub Server</button>
+                        <a href="https://katherghor.netlify.app/"><button className="btn btn-sm btn-outline">Live Website</button></a>
+                        <a href="https://github.com/2ndjoy/b612-used-products-resale-clients-side"><button className="btn btn-sm btn-outline">GitHub Client</button></a>
+                        <a href="https://github.com/2ndjoy/b612-used-products-resale-server-side"><button className="btn btn-sm btn-outline">GitHub Server</button></a>
                     </div>
                 </div>
             </div>
@@ -35,9 +35,9 @@ const Projects = () => {
                     <h2 className="card-title">Skills Insight</h2>
 
                     <div className="card-actions justify-center">
-                        <button className="btn btn-sm btn-outline">Live Website</button>
-                        <button className="btn btn-sm btn-outline">GitHub Client</button>
-                        <button className="btn btn-sm btn-outline">GitHub Server</button>
+                        <a href="https://skills-insight.netlify.app/"><button className="btn btn-sm btn-outline">Live Website</button></a>
+                        <a href="https://github.com/2ndjoy/skills-insight-client"><button className="btn btn-sm btn-outline">GitHub Client</button></a>
+                        <a href="https://github.com/2ndjoy/skills-insight-server"><button className="btn btn-sm btn-outline">GitHub Server</button></a>
                     </div>
                 </div>
             </div>
