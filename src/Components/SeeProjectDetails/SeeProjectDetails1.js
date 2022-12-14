@@ -81,9 +81,9 @@ const SeeProjectDetails1 = () => {
                 </div>
             </div>
             <div className='flex justify-center gap-3 my-9'>
-                <a href="https://education-beyond-border.netlify.app/"><button className="btn btn-sm btn-outline">Live Website</button></a>
-                <a href="https://github.com/2ndjoy/education-beyond-border-client"><button className="btn btn-sm btn-outline">GitHub Client</button></a>
-                <a href="https://github.com/2ndjoy/education-beyond-border-server"><button className="btn btn-sm btn-outline">GitHub Server</button></a>
+                <a href="https://katherghor.netlify.app/"><button className="btn btn-sm btn-outline">Live Website</button></a>
+                <a href="https://github.com/2ndjoy/b612-used-products-resale-clients-side"><button className="btn btn-sm btn-outline">GitHub Client</button></a>
+                <a href="https://github.com/2ndjoy/b612-used-products-resale-server-side"><button className="btn btn-sm btn-outline">GitHub Server</button></a>
             </div>
         </div>
     );
